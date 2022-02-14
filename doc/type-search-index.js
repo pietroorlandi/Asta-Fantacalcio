@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Client"},{"p":"<Unnamed>","l":"FantaPlayer"},{"p":"<Unnamed>","l":"FrameClient"},{"p":"<Unnamed>","l":"InterfaceClient"},{"p":"<Unnamed>","l":"InterfaceServer"},{"p":"<Unnamed>","l":"Offer"},{"p":"<Unnamed>","l":"Server"}]
