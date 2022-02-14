@@ -14,6 +14,8 @@ Per il progetto del corso di Algoritmi Distribuiti è stato sviluppato un sistem
 > 
 6) Ora il sistema è funzionante, basterà inserire il nome dei vari client e inizierà l'asta.
 
+## Demo del progetto
+È disponibile a questo link (https://youtu.be/2vBUN_Aj-yk) un video in cui viene mostrata una demo del sistema.
 
 ## Diagramma delle classi
 ![Diagramma](UML_AstaFantacalcio.jpeg)
