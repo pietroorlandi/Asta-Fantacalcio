@@ -1,6 +1,0 @@
-- Cambiare nel server la ricerca del Player sfruttando una binaria
-- Cambiare le strutture dati in modo da avere robe piu efficienti
-
-Vincoli:
-- non è stato pensato il fatto di giocatori omonimi (anche perchè sono molto rari)
-- controlla se inserisco valori non validi (es -1)
