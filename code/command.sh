@@ -1,1 +1,1 @@
-javac Client.java FantaPlayer.java FrameClient.java InterfaceClient.java InterfaceServer.java Offer.java Server.java User.java
+javac Client.java FantaPlayer.java FrameClient.java InterfaceClient.java InterfaceServer.java Offer.java Server.java
