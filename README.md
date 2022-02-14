@@ -1,5 +1,5 @@
-# Asta-Fantacalcio
-Asta Fantacalcio utilizzando la tecnologia Java RMI - Progetto per il corso di Algoritmi Distribuiti
+# Sistema per la gestione dell'asta del fantacalcio
+Per il progetto del corso di Algoritmi Distribuiti è stato sviluppato un sistema per la gestione dell'asta del fantacalcio utilizzando la tecnologia Java RMI.
 
 ## Come eseguire il sistema
 
