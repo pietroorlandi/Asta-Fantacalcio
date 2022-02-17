@@ -18,7 +18,7 @@ Per il progetto del corso di Algoritmi Distribuiti è stato sviluppato un sistem
 È disponibile a questo link (https://youtu.be/2vBUN_Aj-yk) un video in cui viene mostrata una demo del sistema.
 
 ## Diagramma delle classi
-![Diagramma](UML_AstaFantacalcio.jpeg)
+![Diagramma](UML_AstaFantacalcio.png)
 
 ## Schermata di sistema
 Ecco una schermata di come si mostra il sistema, avviando tutti i client da una singola macchina:
